@@ -1,0 +1,26 @@
+{
+  "name": "expressjs-template",
+  "version": "1.0.0",
+  "description": "A template for express-js, which i'll be using for my future prjects\\",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sozukumr/expressjs-template.git"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "Sonu Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sozukumr/expressjs-template/issues"
+  },
+  "homepage": "https://github.com/sozukumr/expressjs-template#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
+}
