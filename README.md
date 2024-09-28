@@ -2,21 +2,26 @@
  
 Directory Structure:
 ```
-node_modules/
 app.js
-public/
-images/
-stylesheets/
-javascripts/
+public
+    assets
+        css
+            index.css
 views/
+    content
+        about.ejs
+        contact.ejs
+        home.ejs
     header.ejs
     footer.ejs
     index.ejs
     layout.ejs
+    sidebar.ejs
 routes/
     index.js
     users.js
 models/
     user.js
+app.js
 package.json
 ```
