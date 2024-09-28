@@ -2,7 +2,6 @@
  
 Directory Structure:
 ```
-app.js
 public
     assets
         css
